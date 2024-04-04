@@ -7,6 +7,7 @@
 > No new pull requests will be accepted after April 5th.
 > 
 > New Repository: [https://github.com/Azure/Azure-Proactive-Resiliency-Library-v2](https://github.com/Azure/Azure-Proactive-Resiliency-Library-v2)
+> 
 > [aka.ms/aprl](https://aka.ms/aprl) will redirect to the new website starting April 15th
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Azure/Azure-Proactive-Resiliency-Library.svg)](http://isitmaintained.com/project/Azure/Azure-Proactive-Resiliency-Library "Average time to resolve an issue")
